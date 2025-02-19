@@ -1,0 +1,12 @@
+
+
+
+#root {
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+}
+::selection {
+  background-color: #007bff; 
+  color: white; 
+}
